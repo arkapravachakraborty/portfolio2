@@ -1,6 +1,8 @@
+import About from '@/components/About'
+import Experience from '@/components/Experience'
 import Hero from '@/components/Hero'
 import Navbar from '@/components/Navbar'
-import React from 'react'
+import Projects from '@/components/Projects'
 
 const page = () => {
   return (
@@ -8,6 +10,9 @@ const page = () => {
       {/* <div>Page</div> */}
       <Navbar />
       <Hero />
+      <Projects />
+      <About />
+      <Experience />
     </>
   )
 }
