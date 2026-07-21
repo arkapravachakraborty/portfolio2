@@ -3,7 +3,7 @@ import { SkillCategory } from "@/types/skill";
 export const skillsData: SkillCategory[] = [
     {
         title: "Languages",
-        skills: ["JavaScript (ES6+)", "TypeScript", "HTML5", "CSS3", "C / C++", "SQL"],
+        skills: ["JavaScript", "TypeScript", "HTML5", "CSS3", "C / C++", "SQL", "Java", "Python"],
     },
     {
         title: "Frontend Development",
@@ -11,8 +11,6 @@ export const skillsData: SkillCategory[] = [
             "React.js",
             "Next.js",
             "Tailwind CSS",
-            "Redux Toolkit",
-            "Chaiwind CSS",
             "DOM Manipulation",
         ],
     },
@@ -32,10 +30,13 @@ export const skillsData: SkillCategory[] = [
         skills: [
             "MongoDB",
             "PostgreSQL",
+            "My SQL",
             "Git & GitHub",
             "Postman",
-            "NPM / Yarn",
-            "Leaflet.js",
+            "NPM / pnpm",
+            "Inngest",
+            "Pinecone DB",
+            "OpenRouter"
         ],
     },
 ];

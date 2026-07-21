@@ -12,15 +12,15 @@ export const experienceData: ExperienceItem[] = [
             "Collaborated remotely with cross-functional teams to integrate REST APIs and deliver scalable product features on deadline.",
         ],
     },
-    {
-        role: "Full-Stack Developer",
-        company: "Independent / Open Source",
-        location: "Remote",
-        date: "Jan 2025 – Present",
-        details: [
-            "Architected and published chaiwinddev, a lightweight utility-first CSS-in-JS library on NPM.",
-            "Built real-time location-tracking architectures using Node.js, Socket.io, Apache Kafka, and Leaflet.",
-            "Designed and deployed frontend authentication modules with Next.js, React, and Tailwind CSS.",
-        ],
-    },
+    // {
+    //     role: "Full-Stack Developer",
+    //     company: "Independent / Open Source",
+    //     location: "Remote",
+    //     date: "Jan 2025 – Present",
+    //     details: [
+    //         "Architected and published chaiwinddev, a lightweight utility-first CSS-in-JS library on NPM.",
+    //         "Built real-time location-tracking architectures using Node.js, Socket.io, Apache Kafka, and Leaflet.",
+    //         "Designed and deployed frontend authentication modules with Next.js, React, and Tailwind CSS.",
+    //     ],
+    // },
 ];
