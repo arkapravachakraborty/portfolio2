@@ -2,14 +2,14 @@
 
 import React, { useState } from "react";
 import Link from "next/link";
-// import { Motion, AnimatePresence } from "framer-motion"; // Optional for smooth mobile menu transition
 
 const navLinks = [
     { name: "Home", href: "#home" },
     { name: "About", href: "#about" },
     { name: "Projects", href: "#projects" },
     { name: "Skills", href: "#skills" },
-    { name: "Resume", href: "#resume" },
+    { name: "Experience", href: "#experience" },
+    { name: "Resume", href: "#about" },
     { name: "Contact", href: "#contact" },
 ];
 

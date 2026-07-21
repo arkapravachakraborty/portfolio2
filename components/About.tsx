@@ -76,7 +76,7 @@ export default function About() {
                             <div className="mt-4 flex flex-wrap gap-3">
                                 {/* Hashnode */}
                                 <a
-                                    href="https://hashnode.com"
+                                    href="https://hashnode.com/@arkapravachakraborty"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="flex items-center gap-2 rounded-lg border border-neutral-800 bg-neutral-950 px-4 py-2.5 text-sm font-bold text-white transition-all hover:border-neutral-600 hover:bg-neutral-900"
@@ -92,7 +92,7 @@ export default function About() {
 
                                 {/* LinkedIn */}
                                 <a
-                                    href="https://linkedin.com"
+                                    href="https://www.linkedin.com/in/arkapravachakraborty"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="flex items-center gap-2 rounded-lg border border-neutral-800 bg-neutral-950 px-4 py-2.5 text-sm font-bold text-white transition-all hover:border-neutral-600 hover:bg-neutral-900"
@@ -108,7 +108,7 @@ export default function About() {
 
                                 {/* GitHub */}
                                 <a
-                                    href="https://github.com"
+                                    href="https://github.com/arkapravachakraborty"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="flex items-center gap-2 rounded-lg border border-neutral-800 bg-neutral-950 px-4 py-2.5 text-sm font-bold text-white transition-all hover:border-neutral-600 hover:bg-neutral-900"
@@ -124,7 +124,7 @@ export default function About() {
 
                                 {/* Twitter / X */}
                                 <a
-                                    href="https://twitter.com"
+                                    href="https://x.com/Arkaprava01"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="flex items-center gap-2 rounded-lg border border-neutral-800 bg-neutral-950 px-4 py-2.5 text-sm font-bold text-white transition-all hover:border-neutral-600 hover:bg-neutral-900"
@@ -140,7 +140,7 @@ export default function About() {
 
                                 {/* Instagram */}
                                 <a
-                                    href="https://instagram.com"
+                                    href="https://www.instagram.com/arkapravachakraborty1"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="flex items-center gap-2 rounded-lg border border-neutral-800 bg-neutral-950 px-4 py-2.5 text-sm font-bold text-white transition-all hover:border-neutral-600 hover:bg-neutral-900"

@@ -6,7 +6,7 @@ import { experienceData } from "@/data/experience";
 export default function Experience() {
     return (
         <section
-            id="resume"
+            id="experience"
             className="w-full bg-black px-6 py-20 text-white"
         >
             <div className="mx-auto max-w-7xl">
