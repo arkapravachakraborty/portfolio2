@@ -4,7 +4,7 @@ import React from "react";
 import Image from "next/image";
 
 // Replace with your actual Google Drive resume link
-const RESUME_DRIVE_URL = "https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing";
+const RESUME_DRIVE_URL = "https://drive.google.com/file/d/1Y-Ot_zuvgE9X3yjoY-Lh_gYKW1VQmYND/view?usp=sharing";
 
 export default function About() {
     return (
