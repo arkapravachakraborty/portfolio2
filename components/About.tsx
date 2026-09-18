@@ -4,7 +4,7 @@ import React from "react";
 import Image from "next/image";
 
 // Replace with your actual Google Drive resume link
-const RESUME_DRIVE_URL = "https://drive.google.com/file/d/15R5HZdwCcM81ESDvZE43hg1v-U49hBTV/view";
+const RESUME_DRIVE_URL = "https://inapp.app/arka/arka-resume";
 
 export default function About() {
     return (
